@@ -11,6 +11,9 @@
     height: 25em;
     width: 25em;
 }
+a{
+    position: relative;
+}
 
 html {
     min-height: 100%;
@@ -28,6 +31,7 @@ html {
 .evenly-distributed-children {
     display: flex;
     justify-content: space-between;
+    overflow: hidden;
 }
 
 #LI {
