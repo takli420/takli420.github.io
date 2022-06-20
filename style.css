@@ -1,19 +1,27 @@
 ﻿.title {
     font-size: 10vw;
     text-align: center;
-    font-family: Helvetica
+    font-family: Helvetica;
+    color: white;
+    -webkit-text-stroke: 5px black;
 }
 
 .icons {
     position: relative;
-    height: 10em;
-    width: 10em;
+    height: 25em;
+    width: 25em;
+}
+
+body {
+    background-image: url("icons/bg.jpg");
+    background-size: auto;
 }
 
 .icons2 {
     position: relative;
-    height: 10em;
-    width: 10em;
+    height: 25em;
+    width: 25em;
+    margin-top: 5em;
 }
 
 .evenly-distributed-children {
@@ -21,26 +29,26 @@
     justify-content: space-between;
 }
 
-#LI{
-    left:20vw;
+#LI {
+    left: 20vw;
 }
 
-#IG{
+#IG {
     right: 20vw;
 }
 
-#TT{
+#TT {
     left: 18vw;
 }
 
-#FB{
+#FB {
     right: 18vw;
 }
 
-#phone{
-    left:20vw;
+#phone {
+    left: 20vw;
 }
 
-#mail{
-    right:20vw;
+#mail {
+    right: 20vw;
 }
