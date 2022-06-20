@@ -1,3 +1,10 @@
-﻿.title{
-    font:100;
+﻿.title {
+    font-size: 100px;
+    text-align: center;
+    font-family: Helvetica
+}
+
+.icons{
+    height: 200px;
+    width: 200px;
 }
