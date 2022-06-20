@@ -4,7 +4,43 @@
     font-family: Helvetica
 }
 
-.icons{
-    height: 200px;
-    width: 200px;
+.icons {
+    position: relative;
+    height: 250px;
+    width: 250px;
+}
+
+.icons2 {
+    position: relative;
+    height: 300px;
+    width: 300px;
+}
+
+.evenly-distributed-children {
+    display: flex;
+    justify-content: space-between;
+}
+
+#LI{
+    left:20vw;
+}
+
+#IG{
+    right: 20vw;
+}
+
+#TT{
+    left: 18vw;
+}
+
+#FB{
+    right: 18vw;
+}
+
+#phone{
+    left:20vw;
+}
+
+#mail{
+    right:20vw;
 }
