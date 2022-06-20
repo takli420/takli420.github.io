@@ -1,19 +1,19 @@
 ﻿.title {
-    font-size: 100px;
+    font-size: 10vw;
     text-align: center;
     font-family: Helvetica
 }
 
 .icons {
     position: relative;
-    height: 250px;
-    width: 250px;
+    height: 10em;
+    width: 10em;
 }
 
 .icons2 {
     position: relative;
-    height: 300px;
-    width: 300px;
+    height: 10em;
+    width: 10em;
 }
 
 .evenly-distributed-children {
